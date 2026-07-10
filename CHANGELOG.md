@@ -1,3 +1,13 @@
+## v1.0.0 (2026-07-10)
+
+### BREAKING CHANGE
+
+- the library API is changed.
+
+### Refactor
+
+- **enola**: big bang refactor
+
 ## v0.4.2 (2026-05-28)
 
 ### Perf
